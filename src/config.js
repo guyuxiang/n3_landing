@@ -1,5 +1,5 @@
 module.exports = {
-  email: 'contact@narratelab.com',
+  email: 'contact@narrativ3.co',
 
   socialMedia: [
     {
@@ -12,7 +12,7 @@ module.exports = {
     // },
     {
       name: 'Twitter',
-      url: 'https://twitter.com/NarrateLab',
+      url: 'https://twitter.com/narrativ3',
     },
     {
       name: 'Discord',

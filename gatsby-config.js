@@ -4,10 +4,10 @@ module.exports = {
   siteMetadata: {
     title: 'Narrate',
     description: 'Discover unexplored content ideas for your brand',
-    siteUrl: 'https://narratelab.com', // No trailing slash allowed!
+    siteUrl: 'https://narrativ3.co', // No trailing slash allowed!
     image:
       'https://raw.githubusercontent.com/guyuxiang/narrate_landing/master/src/images/front.png', // Path to your image you placed in the 'static' folder
-    twitterUsername: '@narratelab',
+    twitterUsername: '@narrativ3',
   },
   plugins: [
     `gatsby-plugin-react-helmet`,
@@ -26,7 +26,7 @@ module.exports = {
         background_color: config.colors.darkNavy,
         theme_color: config.colors.navy,
         display: 'minimal-ui',
-        icon: 'src/images/logo_square.png',
+        icon: 'src/images/logo_square_n3.png',
       },
     },
     `gatsby-plugin-offline`,

@@ -49,5 +49,5 @@ jobs:
         with:
           publish_dir: ./public
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          cname: narratelab.com
+          cname: narrativ3.co
 
