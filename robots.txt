@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
-Sitemap: https://narratelab.com/sitemap.xml
-Host: https://narratelab.com
+Sitemap: https://narrativ3.co/sitemap.xml
+Host: https://narrativ3.co
